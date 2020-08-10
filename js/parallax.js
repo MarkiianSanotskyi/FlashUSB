@@ -152,7 +152,7 @@
   $.extend(Parallax.prototype, {
     speed:    0.5,
     bleed:    100,
-    zIndex:   -100,
+    zIndex:   0,
     iosFix:   true,
     androidFix: true,
     position: 'center',
